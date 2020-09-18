@@ -1,0 +1,12 @@
+@media screen and (max-width: 720px){
+    /* .nav-intro h1 {
+        font-size: 2em;
+    } */
+    nav {
+        flex-direction: column;
+        
+    }
+    #landing-page {
+        margin-top: 220px;
+    }
+}
